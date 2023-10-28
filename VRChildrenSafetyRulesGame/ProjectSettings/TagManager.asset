@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Safe
+  - Unsafe
+  - Clear
+  - Check
+  - End
+  - Light
+  - Car
+  - Shield
+  - Table
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Safe
+  - Unsafe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 429982199
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TransparentFX
+    uniqueID: 3463160623
+    locked: 0
+  - name: Ignore Raycast
+    uniqueID: 602806515
+    locked: 0
+  - name: Water
+    uniqueID: 3459603741
+    locked: 0

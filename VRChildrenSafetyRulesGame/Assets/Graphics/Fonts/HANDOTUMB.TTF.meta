@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 193409a0eb1968442ac04bcb1c649d5f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HCR Dotum
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a6762e20b5a6d1546a23d9b5191ab910, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
